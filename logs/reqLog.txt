@@ -59,3 +59,10 @@
 22082024	20:01:52	6fa0be34-7665-417c-9673-77de1163cb2e	GET	undefined	/subdir/test
 22082024	20:01:52	2ce7edcf-4fbf-4f3f-b8a4-72c78f7900fd	GET	undefined	/subdir/css/style.css
 22082024	20:01:56	c4531764-308e-49c8-bdd4-c0573ccb54ba	GET	undefined	/favicon.ico
+23082024	14:09:47	169e9dda-805e-4a23-aab2-5ee791b04ae1	GET	undefined	/
+23082024	14:09:51	c7c5397f-8946-4a69-b2c0-a60b6b9063a8	GET	undefined	/css/style.css
+23082024	14:09:52	a948d19f-214e-4a46-8ca4-84c68d7f1a4e	GET	undefined	/favicon.ico
+23082024	14:21:48	e6ec540a-c9f3-45c7-b1c0-6550dd7d47e9	GET	https://www.google.com	/
+23082024	14:26:32	2fe2f75f-4f0c-4fba-9560-5b898989cd87	GET	https://www.google.com	/
+24082024	07:09:35	865776a2-487f-4314-a28c-109ceed092f8	GET	undefined	/employees
+24082024	07:10:05	b5db05b2-8d9d-4c9b-8301-b8b963934d68	GET	undefined	/employees/id

@@ -32,6 +32,7 @@ app.use('/',express.static(path.join(__dirname,'./public')))
 app.use('/subdir',express.static(path.join(__dirname,'./public')))
 app.use('/',require('./routes/roots'))
 app.use('/subdir',require('./routes/subdir'))
+app.use('/employees', require('./routes/api/employees'))
 
 app.get('/*',(req,res)=>{
     res.status(path.join(__dirname, 'views','404.html'))

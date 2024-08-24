@@ -1,0 +1,1 @@
+23082024	14:22:26	8a6a3e0c-f7cd-4d02-b4f8-7c189f2003f1	Error: Not allowed by CORS 
